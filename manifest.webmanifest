@@ -1,0 +1,11 @@
+{
+  "name": "PRIME OS",
+  "short_name": "PRIME",
+  "description": "Personal PRIME System — quests, stats, goals, bosses and chronicle.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "orientation": "portrait-primary",
+  "icons": []
+}
